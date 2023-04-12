@@ -32,12 +32,14 @@ export default function Home({allPostsData}) {
             <title>{`${siteTitle}`}</title>
           </Head>
           <section className={utilStyles.headingMd} >
-
+               
             <p>Hi my name is Anmol Sagar Shrestha. <br />
                I am a Front-End Developer.
                My passion is to build immersive and cool websites.
             </p>
-
+             <p>
+             ABCDEFGHIJKLMNOPQRSTUVWXYZ
+             </p>
             <p>
             <a href="https://nextjs.org/learn">our Next.js tutorial</a>.
             </p>

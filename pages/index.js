@@ -38,7 +38,7 @@ export default function Home({allPostsData}) {
                My passion is to build immersive and cool websites.
             </p>
              <p>
-             ABCDEFGHIJKLMNOPQRSTUVWXYZ
+             This is a new change on 1:30 pm friday. to check if i can make changes
              </p>
             <p>
             <a href="https://nextjs.org/learn">our Next.js tutorial</a>.
